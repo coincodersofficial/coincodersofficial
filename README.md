@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, We're Coin Coders</h1>
 <h3 align="center">We're a passionate community of coding enthusiasts.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coincodersofficial&label=Profile%20views&color=0e75b6&style=flat" alt="coincodersofficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coincodersofficial&label=Profile%20views&color=EB780E&style=flat" alt="coincodersofficial" /> </p>
 
 - 💬 Ask me about **👨‍💻 Welcome to Coin Coders on GitHub! 🚀 🌟 About Us 🌟 We're a passionate community of coding enthusiasts dedicated to making the world of programming**
 
