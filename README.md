@@ -1,3 +1,4 @@
+![logo](https://github.com/coincodersofficial/coincodersofficial/blob/main/Copy%20of%20Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, We're Coin Coders</h1>
 <h3 align="center">We're a passionate community of coding enthusiasts.</h3>
 
