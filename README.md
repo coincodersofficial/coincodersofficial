@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, We are Coin Coders</h1>
+<h1 align="center">Hi 👋, I'm Coin Coders</h1>
 <h3 align="center">We're a passionate community of coding enthusiasts dedicated to making the world of programming.</h3>
-<img border="0" data-original-height="720" data-original-width="1280" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBPbH5X7Hthwvy2STlW5OdCreRePZ5FMbyw3gLYyzEYqwxecM5TpbjpIzImLSeXnc8h-yUiuGcIKAv_gMkP4VfIeRJSIS2rLNyczi5wpie6OwCOdl331-x2OZzi_Kn7_SznE9Bts2v8JMwV_Pen6-M_bmQgFIhrb5SpOOI300k_CYeTu29dcJZ6Tdw3op2/s320/CoinCoders_banner.gif" width="320" />
+<img align="center" border="0" data-original-height="720" data-original-width="1280" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBPbH5X7Hthwvy2STlW5OdCreRePZ5FMbyw3gLYyzEYqwxecM5TpbjpIzImLSeXnc8h-yUiuGcIKAv_gMkP4VfIeRJSIS2rLNyczi5wpie6OwCOdl331-x2OZzi_Kn7_SznE9Bts2v8JMwV_Pen6-M_bmQgFIhrb5SpOOI300k_CYeTu29dcJZ6Tdw3op2/s320/CoinCoders_banner.gif" width="640" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coincodersofficial&label=Profile%20views&color=0e75b6&style=flat" alt="coincodersofficial" /> </p>
 
 - 💬 Ask me about **👨‍💻 Welcome to Coin Coders on GitHub! 🚀 🌟 About Us 🌟 We're a passionate community of coding enthusiasts dedicated to making the world of programming**
